@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This is my first project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Anish",
+    "Singh"
+  ],
+  "author": "Anish Singh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {}
+}
